@@ -1,7 +1,14 @@
 # python-heart-animation
 A mathematical heart visualization built using Python Turtle graphics and parametric trigonometric equations.
-## 📌 Description
-This project generates a heart shape using mathematical parametric equations and visualizes it using the Turtle graphics module in Python.
+
+## 📌 Project Overview
+This project generates a heart shape using mathematical parametric equations and visualizes it using Python's Turtle graphics module.
+
+The heart curve is defined using the following equations:
+
+x(t) = 15 sin³(t)
+
+y(t) = 12 cos(t) − 5 cos(2t) − 2 cos(3t) − cos(4t)
 
 The animation demonstrates:
 - Use of trigonometric functions (sin, cos)
